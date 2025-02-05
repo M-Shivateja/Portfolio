@@ -158,7 +158,7 @@ function About() {
         </div>
       </div>
       <h1 class="text-center font-lilitaOne text-main-color mt-10 mb-10 font-medium text-3xl">
-        Techinal Skills
+        Technical Skills
       </h1>
       <div class="md:mx-40 grid gap-4 grid-cols-[repeat(auto-fill,_minmax(250px,_2fr))] ">
         {skills.map(({ imgSrc, label, desc }, key) => {
