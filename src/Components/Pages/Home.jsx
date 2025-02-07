@@ -40,7 +40,7 @@ function Home() {
           <div className="mt-6 flex  items-center justify-center ">
             <button className="font-bold bg-cta-primary hover:bg-cta-secondary transition-transform duration-500 hover:scale-105 shadow-md px-12 py-2 text-black rounded-md text-white motion-preset-slide-right-lg motion-duration-2000 motion-delay-500 motion-ease-bounce">
               <Link
-                to="https://drive.google.com/file/d/1aMzHhcAjKwRMh7pcwvgu9Zn3H4u_VYaz/view?usp=sharing"
+                to="https://drive.google.com/file/d/15cHfJZDvpsNKrbsbvyUSNzXllxuGnoJ_/view?usp=sharing"
                 target="_blank"
               >
                 My Resume
