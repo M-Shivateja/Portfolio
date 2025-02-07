@@ -26,7 +26,7 @@ function Home() {
               <span className="text-blue-400 font-bold text-2xl">S</span>hiva
               Teja
             </strong>
-            , a MERN Full Stack Developer.
+            , MERN Full Stack Developer.
           </p>
 
           <p className="text-lg text-center text-justify tracking-tigh lg:text-left">
