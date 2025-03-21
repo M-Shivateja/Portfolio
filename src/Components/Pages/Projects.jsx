@@ -21,7 +21,7 @@ function Projects() {
       proName: "PersonalExpense-Tracker",
       tech: "Tech-Stack - MERN [MongoDB, Express, React, Node], Bootstrap",
       proLink: "https://github.com/M-Shivateja/PersonalExpense_Tracker",
-      demo: "https://personal-expense-tracker-three.vercel.app/",
+      demo: "https://personalexpense-tracker-1.onrender.com/",
       src: expenses,
       alt: "project pic",
     },
