@@ -19,6 +19,7 @@ function Projects() {
     },
     {
       proName: "PersonalExpense-Tracker",
+      desc:"Manage expenses effectively with features like expenses tracking, category management, and visualization tools.",
       tech: "Tech-Stack - MERN [MongoDB, Express, React, Node], Bootstrap",
       proLink: "https://github.com/M-Shivateja/PersonalExpense_Tracker",
       demo: "https://personalexpense-tracker-1.onrender.com/",
